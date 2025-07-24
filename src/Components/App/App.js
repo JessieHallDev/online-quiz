@@ -1,23 +1,20 @@
-
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Online Quiz
-        </a>
-      </header>
-    </div>
+       <h1>Online Quiz</h1>
+       <div className="quiz">
+         <h2 className='question'>question</h2>
+         <div className='answer-buttons'>
+           <button className='btn'>Answer 1</button>
+           <button className='btn'>Answer 1</button>
+           <button className='btn'>Answer 1</button>
+           <button className='btn'>Answer 1</button>
+         </div>
+       </div>
+      </div>
   );
 }
 
