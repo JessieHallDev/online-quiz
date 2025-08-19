@@ -1,5 +1,5 @@
 .container {
-    width: 660px;
+    width: 75%;
     margin: auto;
     margin-top: 70px;
     background: rgb(0, 130, 80);
@@ -23,6 +23,7 @@
     font-size: 28px;
     font-weight: 500px;
     padding: 5px;
+    text-align: center;
  }
 
  .container ul li{
@@ -51,6 +52,10 @@
     box-shadow: 20px 60% rgb(49, 65, 49);
  }
 
+button:hover{
+   background: rgb(168, 135, 120);
+ }
+
 .container .index{
     margin: auto;
     font-size: 18px;
@@ -65,3 +70,14 @@
     background: rgb(255, 100, 80);
     border-color: red;
 }
+
+.container .congrats {
+    text-align: center;
+    font-size: 30px;
+}
+
+@media (max-width: 900px) {
+    .container {
+      background: rgb(202, 98, 0); 
+   }
+  }
