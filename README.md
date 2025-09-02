@@ -1,3 +1,5 @@
+<img width="1306" height="733" alt="Screenshot 2025-08-20 at 09 59 50" src="https://github.com/user-attachments/assets/176c3497-c9c4-436d-9671-a7cc0130349a" />
+
 # Online Quiz App
 
 ## An online trivia quiz with a selection of general knowledge questions
@@ -71,7 +73,9 @@ A simple react app that includes an introductory 'How To' page describing the fu
 
  * Accessibility marked low: Background and foreground colors do not have a sufficient contrast ratio and Heading elements are not in a sequentially-descending order
 
-[Uploading lighthouse report updated.html…]()
+
+[lighthouse report updated.html](https://github.com/user-attachments/files/22092469/lighthouse.report.updated.html)
+
 
 <img width="474" height="105" alt="Screenshot 2025-09-02 at 11 03 52" src="https://github.com/user-attachments/assets/7c357317-71e2-4f40-8b59-d2809485d8f1" />
 
