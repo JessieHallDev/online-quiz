@@ -87,6 +87,6 @@ A simple react app that includes an introductory 'How To' page describing the fu
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Main Branch, then click "Save".
 The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found <a src="https://jessiehalldev.github.io/online-quiz/">here</a>
+The live link can be found at [https://jessiehalldev.github.io/online-quiz/]
 
 
