@@ -81,12 +81,12 @@ A simple react app that includes an introductory 'How To' page describing the fu
  * Issues fixed by switching H3 element to H2
 
 
-## Deployment to GitHub Pages
-### The site was deployed to GitHub pages. The steps to deploy are as follows:
+## Deployment
+### The react site was deployed via vs code. The steps to deploy are as follows:
 
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Main Branch, then click "Save".
-The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+ * The scripts "predeploy": "npm run build", "deploy": "gh-pages -d build" were added to package.json
+ * the url link was added as the "homepage" in package.json
+ * "npm run build" was run in the terminal to deploy the site
 The live link can be found at [https://jessiehalldev.github.io/online-quiz/]
 
 
