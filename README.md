@@ -1,5 +1,3 @@
-[lighthouse report updated.html](https://github.com/user-attachments/files/22091903/lighthouse.report.updated.html)[lighthouse report.html](https://github.com/user-attachments/files/22091722/lighthouse.report.html)<img width="1306" height="733" alt="Screenshot 2025-08-20 at 09 59 50" src="https://github.com/user-attachments/assets/2cc1dc1f-467b-491f-bebc-6c5b8abe4056" />
-
 # Online Quiz App
 
 ## An online trivia quiz with a selection of general knowledge questions
