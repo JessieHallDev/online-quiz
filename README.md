@@ -65,16 +65,21 @@ A simple react app that includes an introductory 'How To' page describing the fu
 
 [lighthouse report.html](https://github.com/user-attachments/files/22091736/lighthouse.report.html)
 
+
 <img width="464" height="97" alt="Screenshot 2025-09-02 at 11 00 00" src="https://github.com/user-attachments/assets/c819a0d6-4583-47a5-a42a-9a0ec46f59b9" />
+
 
 <img width="269" height="96" alt="Screenshot 2025-08-20 at 10 06 44" src="https://github.com/user-attachments/assets/da4becd4-92ca-4335-b6b8-8e829f9d2dd9" />
 
+
 <img width="320" height="144" alt="Screenshot 2025-09-02 at 10 53 56" src="https://github.com/user-attachments/assets/6094e2ad-f49c-409a-aed6-26ccd68d1696" />
+
 
  * Accessibility marked low: Background and foreground colors do not have a sufficient contrast ratio and Heading elements are not in a sequentially-descending order
 
 
 [lighthouse report updated.html](https://github.com/user-attachments/files/22092469/lighthouse.report.updated.html)
+
 
 
 <img width="474" height="105" alt="Screenshot 2025-09-02 at 11 03 52" src="https://github.com/user-attachments/assets/7c357317-71e2-4f40-8b59-d2809485d8f1" />
@@ -89,6 +94,6 @@ A simple react app that includes an introductory 'How To' page describing the fu
  * The scripts "predeploy": "npm run build", "deploy": "gh-pages -d build" were added to package.json
  * the url link was added as the "homepage" in package.json
  * "npm run build" was run in the terminal to deploy the site
-The live link can be found at [https://jessiehalldev.github.io/online-quiz/]
+ * The live link can be found at [https://jessiehalldev.github.io/online-quiz/]
 
 
